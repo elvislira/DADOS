@@ -1,2 +1,3 @@
 # DADOS
-Dados para estudo
+Dados para estudo.
+Estudos paralelos.
